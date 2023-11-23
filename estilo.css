@@ -1,15 +1,15 @@
 body{
     font-family: 'Kanit', sans-serif;
     background-color:burlywood;
- color: white;
+ color: brown;
  font-size: 30px;
  text-align: center;
 }
  p{
     text-align: center;
-    color:white;
+    color:brown;
 }
 #missao{
     font-size: 50px;
-    color:white;
+    color:brown;
 }
