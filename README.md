@@ -1,4 +1,4 @@
-Laura,Maria Luiza,Larissa
+Laura, Maria Luiza, Larissa
 
 # cafeteria
 
