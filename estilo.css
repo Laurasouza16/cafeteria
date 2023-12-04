@@ -13,10 +13,13 @@ body{
     font-size: 50px;
     color:brown;
 }
-#foto1{
-    width: 50%;
-}
+
 #conteudo{
     display: flex;
     text-align: center;
+    margin: auto;
+}
+#foto1{
+    width: 50%;
+    margin-left: 10px;
 }
