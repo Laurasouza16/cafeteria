@@ -18,4 +18,5 @@ body{
 }
 #conteudo{
     display: flex;
+    text-align: center;
 }
